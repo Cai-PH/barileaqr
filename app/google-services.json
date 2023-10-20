@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196184322665",
+    "project_id": "bank-qr-thingy",
+    "storage_bucket": "bank-qr-thingy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196184322665:android:9c7497c24b109ce4ac28f8",
+        "android_client_info": {
+          "package_name": "dev.cai.bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196184322665-tf4jlhvent1c0t0olqhiefn6us6f905m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.cai.bank",
+            "certificate_hash": "76c3eb04d0456de767e170a391d72e1318304f3d"
+          }
+        },
+        {
+          "client_id": "196184322665-rgsncea615vuipfumuiimdmcvqevqb07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8hc__GYIADihUJJCSXyxN8ndbRB3Y_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196184322665-rgsncea615vuipfumuiimdmcvqevqb07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
